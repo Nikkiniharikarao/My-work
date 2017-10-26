@@ -1,0 +1,7 @@
+C:\Users\sony\source\repos\Recursive\Recursive\bin\Debug\Recursive.exe.config
+C:\Users\sony\source\repos\Recursive\Recursive\bin\Debug\Recursive.exe
+C:\Users\sony\source\repos\Recursive\Recursive\bin\Debug\Recursive.pdb
+C:\Users\sony\source\repos\Recursive\Recursive\obj\Debug\ObjectArray.csprojResolveAssemblyReference.cache
+C:\Users\sony\source\repos\Recursive\Recursive\obj\Debug\ObjectArray.csproj.CoreCompileInputs.cache
+C:\Users\sony\source\repos\Recursive\Recursive\obj\Debug\Recursive.exe
+C:\Users\sony\source\repos\Recursive\Recursive\obj\Debug\Recursive.pdb
